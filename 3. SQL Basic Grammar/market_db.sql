@@ -48,4 +48,3 @@ INSERT INTO buy VALUES(NULL, 'MMU', '지갑', NULL, 30, 4);
 
 SELECT * FROM member;
 SELECT * FROM buy;
-

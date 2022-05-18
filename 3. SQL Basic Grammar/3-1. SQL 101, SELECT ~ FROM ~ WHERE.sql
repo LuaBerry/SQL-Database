@@ -49,7 +49,7 @@ SELECT *
 SELECT *
 	FROM member
     WHERE mem_name Like '__핑크';
-    
+
 -- Subquery
 SELECT height FROM member WHERE mem_name = '에이핑크';
 
